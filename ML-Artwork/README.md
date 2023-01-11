@@ -24,4 +24,21 @@ N. Viswanathan, “Artist Identification with Convolutional Neural Networks,” 
  - [Jupyter Notebook](https://jupyter.org/)
  - [Numpy](https://numpy.org/)
  - [Pandas](https://pandas.pydata.org/)
- - [Scikit-Learn](https://scikit-learn.org/stable/)
+ - [Scikit-Learn](https://scikit-learn.org/stable/)      
+ - [Tensorflow](https://www.tensorflow.org/)
+ - [SciPy](https://scipy.org/)
+ 
+ # Code
+
+The files for this project can be found here: https://drive.google.com/drive/folders/1UD-sSwHy-Ie6MAOSQNkjOJXTiVAKzXiC?usp=share_link
+
+Our main models are in the following files:
+ - predict_artist_cnn.ipynb
+ - predict_style_cnn.ipynb
+ - predict_artist_resnet50.ipynb
+ - predict_styles_resnet50.ipynb
+
+
+Our data was cleaned with dataCleaner.ipynb and the images were loaded with download_images.ipynb.
+
+The files in the folder `old_code` are models that were previously trained but were discarded since they had low accuracies and thus not the focus of our report.
