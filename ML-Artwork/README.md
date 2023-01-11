@@ -1,0 +1,2 @@
+# ML Artwork
+The purpose of this project is to train machine learning models to learn how to predict the artists of historical paintings. Creating an accurate classifier for this problem can be greatly benifical to historians attempting to classify unknown artwork. We hope to classify artist names based on brush strokes, colour choice, and other stylistic techniques that are present in the artwork.
