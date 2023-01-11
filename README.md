@@ -2,6 +2,8 @@
 In SENG 474, we had three individual projects:
 
 [The American Job](https://github.com/Puwentao-Yan/Machine-Learning/tree/main/The%20American%20Job)
+[The American Handwriting]()
+[Fashion MNIST]()
 
 and one group project:
 
