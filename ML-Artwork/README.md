@@ -4,7 +4,9 @@ The purpose of this project is to train machine learning models to learn how to 
 
 # Team Members
 Finn Tobin
+
 Jas Dhaul
+
 Puwentao Yan
 
 # Dataset
