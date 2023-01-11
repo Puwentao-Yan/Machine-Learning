@@ -9,7 +9,7 @@ In SENG 474, we had three individual projects:
 
 and one group project:
 
-"ML-Artwork"
+[ML-Artwork](https://github.com/Puwentao-Yan/Machine-Learning/tree/main/ML-Artwork)
 
 The detail readme files can be found in projects' directory.
 # SENG 474 course purpose
