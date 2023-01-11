@@ -6,4 +6,3 @@ https://github.com/zalandoresearch/fashion-mnist
 # P_02
 1. Implement Lloyd’s algorithm from scratch and use the following two initialization techniques: random initialization, k-means++ initialization.
 2. Run hierarchical agglomerative clustering on this dataset.
-# P_03
